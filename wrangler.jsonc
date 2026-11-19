@@ -13,7 +13,7 @@
   // Create the database once:   npx wrangler d1 create activity-db
   // then paste the printed database_id below (or bind it in the Cloudflare dashboard / install-proje panel).
   "d1_databases": [
-    { "binding": "DB", "database_name": "activity-db", "database_id": "PUT_YOUR_D1_DATABASE_ID_HERE" }
+    { "binding": "DB", "database_name": "activity-db", "database_id": "f663878e-7973-40b0-ad50-4f77b432f9e1" }
   ],
 
   "vars": {
